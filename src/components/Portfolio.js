@@ -11,14 +11,14 @@ const Portfolio = () => {
         <div className="portfolio-item">
           <div
             className="portfolio-img mr-md"
-            data-aos="fade-right"
+            data-aos="zoom-in-down"
             data-aos-delay="300"
           >
             <img src="./images/tapiolla.PNG" alt="portfolio image" />
           </div>
           <div
             className="portfolio-description"
-            data-aos="fade-left"
+            data-aos="zoom-in-up"
             data-aos-delay="300"
           >
             <h6>Android App Development</h6>
@@ -42,7 +42,7 @@ const Portfolio = () => {
         <div className="portfolio-item">
           <div
             className="portfolio-description mr-md"
-            data-aos="fade-right"
+            data-aos="zoom-in-down"
             data-aos-delay="300"
           >
             <h6>Web and Android App Development</h6>
@@ -65,7 +65,7 @@ const Portfolio = () => {
           </div>
           <div
             className="portfolio-img "
-            data-aos="fade-left"
+            data-aos="zoom-in-up"
             data-aos-delay="300"
           >
             <img src="./images/languru.png" alt="languru image" />
@@ -74,14 +74,14 @@ const Portfolio = () => {
         <div className="portfolio-item">
           <div
             className="portfolio-img mr-md"
-            data-aos="fade-right"
+            data-aos="zoom-in-down"
             data-aos-delay="300"
           >
             <img src="./images/logoFoodByMe.png" alt="food by me image" />
           </div>
           <div
             className="portfolio-description"
-            data-aos="fade-left"
+            data-aos="zoom-in-up"
             data-aos-delay="300"
           >
             <h6>Web Development</h6>

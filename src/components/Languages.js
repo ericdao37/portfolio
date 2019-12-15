@@ -3,12 +3,12 @@ import React from "react";
 const Languages = () => {
   return (
     <section className="languages" id="languages">
-      <div className="bg-video">
+      {/* <div className="bg-video">
         <video className="bg-video__content" autoPlay muted loop>
           <source src="./images/manhattan.mp4" type="video/mp4" />
           Your Browser is not supported
         </video>
-      </div>
+      </div> */}
       <div className="container">
         <div className="feature-box-container">
           <div className="section-heading-white">

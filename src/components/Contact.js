@@ -11,7 +11,7 @@ class Contact extends Component {
           </div>
 
           <div className="contact__content">
-            <div data-aos="fade-right" data-aos-delay="300">
+            <div data-aos="fade-in" data-aos-delay="300">
               <p className="contact__item center-content">
                 <i class="contact__icon fas fa-user-tie"></i>
                 <span>Cuong Thinh Dao</span>
@@ -25,7 +25,7 @@ class Contact extends Component {
                 <span>eric.dao37@gmail.com</span>
               </p>
             </div>
-            <div data-aos="fade-left" data-aos-delay="300">
+            <div data-aos="fade-in" data-aos-delay="600">
               <p className="contact__item">
                 <i class="contact__icon fab fa-linkedin"></i>
                 <span>https://www.linkedin.com/in/cuong-thinh-dao/</span>

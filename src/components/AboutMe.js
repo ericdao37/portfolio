@@ -1,6 +1,16 @@
 import React, { Component } from "react";
 
 class AboutMe extends Component {
+  // constructor(props, context) {
+  //   super(props, context);
+  //   AOS.init({
+  //     easing: "ease",
+  //     duration: 1800
+  //   });
+  // }
+  // componentWillReceiveProps() {
+  //   AOS.refresh();
+  // }
   render() {
     return (
       <section className="about" id="about">
@@ -15,7 +25,7 @@ class AboutMe extends Component {
             /> */}
             <figure
               class="profile__shape"
-              data-aos="fade-right"
+              data-aos="zoom-in-down"
               data-aos-delay="300"
             >
               <img
@@ -28,7 +38,7 @@ class AboutMe extends Component {
           </div>
           <div
             className="about-details"
-            data-aos="fade-left"
+            data-aos="zoom-in-down"
             data-aos-delay="300"
           >
             <div className="about-heading">

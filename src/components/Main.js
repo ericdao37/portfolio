@@ -13,6 +13,7 @@ class Main extends Component {
   constructor(props, context) {
     super(props, context);
     AOS.init({
+      // disable: "mobile",
       easing: "ease",
       duration: 1800,
       once: true

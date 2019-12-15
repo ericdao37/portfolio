@@ -130,7 +130,14 @@
 ///////////languages
 .languages {
   position: relative;
-  background-color: rgba($color-background-1, 0.9);
+  //background-color: rgba($color-background-1, 0.9);
+  background-image: linear-gradient(
+      rgba($color-background-1, 0.93),
+      rgba($color-background-1, 0.93)
+    ),
+    url(../images/mountains.jpg);
+  background-size: cover;
+  background-position: center;
   &__content {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
@@ -263,6 +270,7 @@
     @include respond(phone) {
       margin: 0 0 2rem 0;
       order: 1;
+      width: 35rem;
     }
   }
   &-description {
