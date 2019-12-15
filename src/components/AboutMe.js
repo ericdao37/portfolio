@@ -1,19 +1,6 @@
 import React, { Component } from "react";
-import withLayout from "./hoc/withLayout";
-import AOS from "aos";
 
-import Header from "./Header";
 class AboutMe extends Component {
-  // constructor(props, context) {
-  //   super(props, context);
-  //   AOS.init({
-  //     easing: "ease",
-  //     duration: 1800
-  //   });
-  // }
-  // componentWillReceiveProps() {
-  //   AOS.refresh();
-  // }
   render() {
     return (
       <section className="about" id="about">

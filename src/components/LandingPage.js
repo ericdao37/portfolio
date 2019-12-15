@@ -39,6 +39,7 @@ class LandingPage extends Component {
                   className="text-white p-1"
                   href="https://www.linkedin.com/in/cuong-thinh-dao/"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <i className="fas fa-globe" />
                 </a>
@@ -46,6 +47,7 @@ class LandingPage extends Component {
                   className="text-white p-1"
                   href="https://www.linkedin.com/in/cuong-thinh-dao/"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <i className="fab fa-linkedin" />
                 </a>
@@ -54,6 +56,7 @@ class LandingPage extends Component {
                   className="text-white p-1"
                   href="https://github.com/ericdao37"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <i className="fab fa-github" />
                 </a>

@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import $ from "jquery";
-import { Link } from "react-router-dom";
 
 class Navigation extends Component {
   componentDidMount() {

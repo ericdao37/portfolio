@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 const Portfolio = () => {
   return (
@@ -30,7 +29,12 @@ const Portfolio = () => {
               want, be able to make multiple versions, keep all your info up to
               date with all your contacts and... NEVER RUN OUT OF CARDS AGAIN!!!
             </p>
-            <a target="_blank" href="https://tapiolla.com/" class="cta">
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://tapiolla.com/"
+              class="cta"
+            >
               View Details
             </a>
           </div>
@@ -53,6 +57,7 @@ const Portfolio = () => {
             <a
               href="https://github.com/mrhoangmai93/CSIS4270-Special-topic"
               target="_blank"
+              rel="noopener noreferrer"
               class="cta"
             >
               View Details
