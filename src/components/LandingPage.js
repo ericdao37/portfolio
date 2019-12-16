@@ -38,7 +38,7 @@ class LandingPage extends Component {
               <p>
                 <a
                   className="text-white p-1"
-                  href="https://www.linkedin.com/in/cuong-thinh-dao/"
+                  href="https://ctdao.dev/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

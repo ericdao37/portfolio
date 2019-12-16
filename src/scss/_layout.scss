@@ -198,7 +198,13 @@
 
   padding: 8rem;
   padding-top: 4rem;
-
+  @include respond(tab-port) {
+    padding: 6rem;
+    padding-top: 4rem;
+  }
+  @include respond(phone) {
+    padding: 2rem;
+  }
   &__text-box {
     position: absolute;
     top: 50%;
