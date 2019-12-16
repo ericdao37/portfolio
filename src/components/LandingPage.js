@@ -7,7 +7,8 @@ class LandingPage extends Component {
         <div className="landing" id="landing">
           <div className="bg-video">
             <video className="bg-video__content" autoPlay muted loop>
-              <source src="./videos/campervan.mp4" type="video/mp4" />
+              <source src="./videos/abcd.mp4" type="video/mp4" />
+              <source src="./videos/abcd.webm" type="video/webm" />
               Your Browser is not supported
             </video>
           </div>
