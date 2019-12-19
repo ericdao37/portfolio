@@ -26,7 +26,7 @@ const Languages = () => {
               <p className="feature-box__text mb-sm">(2 Years)</p>
 
               <p className="feature-box__text">
-                Android App using Android Sudio
+                Native Android app development using Android Sudio
               </p>
               {/* <div className="sl-ratings">
               <Rating
@@ -68,8 +68,7 @@ const Languages = () => {
               <h3 className="">PHP</h3>
               <p className="feature-box__text mb-sm">(1 Years)</p>
               <p className="feature-box__text">
-                I have some working experience with PHP and the Laravel
-                framework.
+                1 year experience with PHP and the Laravel framework.
               </p>
             </div>
           </div>
