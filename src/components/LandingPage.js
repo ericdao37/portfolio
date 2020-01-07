@@ -19,6 +19,7 @@ class LandingPage extends Component {
               className="landing__logo"
             />
           </div>
+          
           <div class="landing__text-box">
             <h1
               className="heading-1 mb-sm"
