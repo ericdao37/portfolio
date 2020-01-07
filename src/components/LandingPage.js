@@ -25,7 +25,7 @@ class LandingPage extends Component {
               data-aos="center-top"
               data-aos-delay="300"
             >
-              Cuong Thinh Dao
+              Cuong Thinh (Eric) Dao
             </h1>
             <h3
               className="heading-3 mb-sm"

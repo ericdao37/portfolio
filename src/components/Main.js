@@ -9,6 +9,8 @@ import Experience from "./Experience";
 import Footer from "./Footer";
 import Languages from "./Languages";
 import Contact from "./Contact";
+import CustomChatbot from "./chatbot/CustomChatbot";
+
 class Main extends Component {
   constructor(props, context) {
     super(props, context);
@@ -40,6 +42,7 @@ class Main extends Component {
         <Portfolio />
         <Experience />
         <Contact />
+        <CustomChatbot />
         <Footer />
       </>
     );

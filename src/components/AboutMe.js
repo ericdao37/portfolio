@@ -29,7 +29,7 @@ class AboutMe extends Component {
               data-aos-delay="300"
             >
               <img
-                src="./images/ava.PNG"
+                src="./images/avatar.png"
                 alt="Cuong Thinh Dao"
                 class="profile__img"
               />
@@ -46,8 +46,8 @@ class AboutMe extends Component {
               <h6 className="heading-3">Myself</h6>
             </div>
             <p>
-              I am a full stack developer with two years of experience in MERN
-              stack and one year in developing Android App. I have a good
+              I am a full stack developer with two years of experience in
+              ReactJs and one year in developing Android App. I have a good
               knowledge of Object-Oriented Analysis and Design, Database Design,
               and Design Patterns. Self-improvement and continual study always
               are my top priorities.
